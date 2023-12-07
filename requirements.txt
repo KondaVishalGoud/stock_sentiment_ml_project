@@ -60,7 +60,6 @@ PyAudio==0.2.13
 Pygments==2.16.1
 python-dateutil==2.8.2
 pytz==2023.3.post1
-pywin32
 PyYAML==6.0.1
 pyzmq==25.1.1
 regex==2023.10.3
